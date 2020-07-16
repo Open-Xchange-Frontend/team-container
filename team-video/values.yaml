@@ -11,6 +11,9 @@ auth:
     user: admin
     password: "jitsiAdmin"
 
+ingress:
+  enabled: true
+
 logLevel: "info"
 hideWelcomePage: true
 
